@@ -4,7 +4,7 @@
 # Hi 👋, I'm RaJ-0002
 ### 🚀 Data Scientist | Machine Learning Developer 
 
-<img src="yapappa_yappapa.png" width="250" />
+<img src="yapappa_yappapa.png" width="500" />
 
 ---
 
