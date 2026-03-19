@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm RaJ-0002
 
-<!--
-**RaJ-0002/RaJ-0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | ML Pipeline Developer
 
-Here are some ideas to get you started:
+- 🛠️ I specialize in building **End-to-End ML Pipelines**, from raw data ingestion to model deployment.
+- 📊 **EDA Expert**: My projects focus on uncovering deep insights through rigorous Exploratory Data Analysis.
+- 🧹 **Data Cleaning**: Experienced in handling messy datasets, outlier detection, and feature engineering.
+- 📈 Currently working on optimizing automated data preprocessing workflows.
+- 📫 Reach me at: [rajeshavula2000@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+**Python | SQL | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | Git**
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaJ-0002&show_icons=true&theme=radical)
