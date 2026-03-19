@@ -11,11 +11,12 @@
 ### 🔍 Specialized in Data Cleaning & Exploratory Analysis
 *Turning messy data into actionable insights and robust ML models.*
 
-</div>
-
 ---
 
+<div align="center">
+
 ### 🛠️ Core Tech Stack & Skills
+
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
@@ -23,22 +24,26 @@
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
 
+</div>
+
 ---
 
 ### ⚡ Quick Overview
 - 🧹 **Data Cleaning:** Expert in outlier detection, missing value treatment, and feature engineering.
 - 📊 **EDA:** Focused on statistical analysis and finding hidden patterns in complex datasets.
 - 🤖 **ML Dev:** Developing predictive models with a focus on accuracy and scalability.
-- 📫 **Reach me:** [rajeshavula2000@gmail.com]
+- 📫 **Reach me:** [rajeshavula2000@gmail.com](mailto:rajeshavula2000@gmail.com)
 
 ---
 
-### 📈 My GitHub Activity
 <div align="center">
 
-![RaJ-0002's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaJ-0002&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaJ-0002&layout=compact&theme=radical&hide_border=true)
+### 📈 My GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaJ-0002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaJ-0002&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="42%" />
+</p>
 </div>
 
 ---
